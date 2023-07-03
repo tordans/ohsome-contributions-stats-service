@@ -1,5 +1,7 @@
 # ohsome-contributions-stats-service
 
+See [GIScience/ohsome-contributions-stats-frontend](https://github.com/GIScience/ohsome-contributions-stats-frontend) for a frontend application that uses this service.
+
 ## Purpose
 
 * REST service providing endpoints for OSM contribution statistics
